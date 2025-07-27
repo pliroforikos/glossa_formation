@@ -58,7 +58,7 @@
 
 1. **Κατεβάστε τα αρχεία**:
    ```
-   git clone https://github.com/yourusername/glossa-powerpoint-tools.git
+   git clone https://github.com/pliroforikos/glossa-powerpoint-tools.git
    ```
 
 2. **Ανοίξτε το PowerPoint**
@@ -68,8 +68,8 @@
 
 4. **Προσθέστε τα modules**:
    - `Insert` → `Module`
-   - Αντιγράψτε τον κώδικα από `syntax-highlighter.vb`
-   - Επαναλάβετε για `code-indenter.vb`
+   - Αντιγράψτε τον κώδικα από `glossa_syntax_highlighter.vb`
+   - Επαναλάβετε για `glossa_code_indenter.vb`
 
 5. **Αποθηκεύστε την παρουσίαση** ως `.pptm` (macro-enabled)
 
@@ -324,9 +324,6 @@ MIT License - Ελεύθερη χρήση, τροποποίηση και δια�
 ```
 
 ## 🙏 Ευχαριστίες
-
-- **Ελληνικό Εκπαιδευτικό Σύστημα** για τη ΓΛΩΣΣΑ
-- **Microsoft** για το PowerPoint VBA API
 - **Όλους τους εκπαιδευτικούς** που χρησιμοποιούν αυτά τα εργαλεία
 
 ---
@@ -335,8 +332,8 @@ MIT License - Ελεύθερη χρήση, τροποποίηση και δια�
 
 ### 📞 Επικοινωνία
 
-- **GitHub Issues**: [Αναφορά προβλημάτων](https://github.com/yourusername/glossa-powerpoint-tools/issues)
-- **Discussions**: [Συζητήσεις και ερωτήσεις](https://github.com/yourusername/glossa-powerpoint-tools/discussions)
+- **GitHub Issues**: [Αναφορά προβλημάτων](https://github.com/pliroforikos/glossa-powerpoint-tools/issues)
+- **Discussions**: [Συζητήσεις και ερωτήσεις](https://github.com/pliroforikos/glossa-powerpoint-tools/discussions)
 
 ---
 
