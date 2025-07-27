@@ -1,6 +1,6 @@
 # ΓΛΩΣΣΑ PowerPoint Tools
 
-**Πανίσχυρα εργαλεία για syntax highlighting και code formatting του ψευδοκώδικα ΓΛΩΣΣΑ στο Microsoft PowerPoint**
+**Πανίσχυρα εργαλεία για syntax highlighting και code formatting της γλώσσας "ΓΛΩΣΣΑ" στο Microsoft PowerPoint**
 
 [![PowerPoint](https://img.shields.io/badge/PowerPoint-2016%2B-orange.svg)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![VBA](https://img.shields.io/badge/VBA-Compatible-blue.svg)](https://docs.microsoft.com/en-us/office/vba/)
